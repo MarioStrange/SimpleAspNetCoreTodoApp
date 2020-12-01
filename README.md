@@ -7,6 +7,4 @@ Simple MVC To-do app with user registration and login
 Project is created with:
 * C#
 * Visual Studio 2019
-* HTML
-* JavaScript
 * .NET CORE MVC
